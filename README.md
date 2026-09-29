@@ -3,7 +3,7 @@
 A responsive, single-page data analytics application designed to extract, compute, and visualize live equity and cryptocurrency market data in real-time.
 
 ## 🔗 Live Application
-👉 **[Launch Live Dashboard on Streamlit Cloud](https://streamlit.app)** *(Replace with your exact link)*
+👉 **[[Launch Live Dashboard on Streamlit Cloud](https://streamlit.app)](https://fintrackdashboard-9uogwanuwnnxik2xjqwstl.streamlit.app/)** **
 
 ## 🛠️ Technical Architecture & Ecosystem
 - **Core Engine:** Python 3.14
